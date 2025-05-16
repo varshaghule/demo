@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import React from 'react'
 import Navbar from './components/Navbar/Navbar'
 import Sidebar from './components/Sidebar/Sidebar'
@@ -25,6 +26,8 @@ const App = () => {
       </div>
     </div>
 =======
+=======
+>>>>>>> a1ac116 (All last)
 import React, { useState } from 'react'
 import Navbar from './components/Navbar/Navbar'
 import { Route, Routes } from 'react-router-dom'
@@ -52,7 +55,10 @@ const App = () => {
     </div>
     <Footer/>
     </>
+<<<<<<< HEAD
 >>>>>>> a09ea5f (Frontend added)
+=======
+>>>>>>> a1ac116 (All last)
   )
 }
 

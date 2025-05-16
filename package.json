@@ -1,10 +1,14 @@
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "admin",
 =======
   "name": "frontend",
 >>>>>>> a09ea5f (Frontend added)
+=======
+  "name": "frontend",
+>>>>>>> a1ac116 (All last)
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -18,6 +22,7 @@
     "axios": "^1.8.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "react-router-dom": "^7.5.1",
     "react-toastify": "^11.0.5"
@@ -61,6 +66,8 @@
   "description": ""
 >>>>>>> 10c5274 (first commit)
 =======
+=======
+>>>>>>> a1ac116 (All last)
     "react-router-dom": "^7.5.0"
   },
   "devDependencies": {
@@ -74,5 +81,8 @@
     "globals": "^15.15.0",
     "vite": "^6.2.0"
   }
+<<<<<<< HEAD
 >>>>>>> a09ea5f (Frontend added)
+=======
+>>>>>>> a1ac116 (All last)
 }

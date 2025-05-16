@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import React from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
@@ -8,6 +9,8 @@ createRoot(document.getElementById('root')).render(
   <BrowserRouter>
     <App />
 =======
+=======
+>>>>>>> a1ac116 (All last)
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
@@ -20,6 +23,9 @@ createRoot(document.getElementById('root')).render(
     <StoreContextProvider>
        <App/>
     </StoreContextProvider>
+<<<<<<< HEAD
 >>>>>>> a09ea5f (Frontend added)
+=======
+>>>>>>> a1ac116 (All last)
   </BrowserRouter>
 )

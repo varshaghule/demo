@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import logo from './logo.png'
 import add_icon from './add_icon.png'
 import order_icon from './order_icon.png'
@@ -17,6 +18,8 @@ export const assets ={
 
 export const url = 'http://localhost:4000'
 =======
+=======
+>>>>>>> a1ac116 (All last)
 import basket_icon from './basket_icon.png'
 import logo from './logo.png'
 import header_img from './header_img.png'
@@ -369,4 +372,7 @@ export const food_list = [
         category: "Noodles"
     }
 ]
+<<<<<<< HEAD
 >>>>>>> a09ea5f (Frontend added)
+=======
+>>>>>>> a1ac116 (All last)

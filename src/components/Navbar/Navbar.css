@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -12,6 +13,8 @@
     width: 40px;
 }
 =======
+=======
+>>>>>>> a1ac116 (All last)
 .navbar {
   position: fixed;
   top: 0;
@@ -199,4 +202,7 @@
   body {
   padding-top: 120px;
 }
+<<<<<<< HEAD
 >>>>>>> a09ea5f (Frontend added)
+=======
+>>>>>>> a1ac116 (All last)

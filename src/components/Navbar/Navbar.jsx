@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import React from 'react'
 import './Navbar.css'
 import {assets} from '../../assets/assets'
@@ -12,6 +13,8 @@ const Navbar = () => {
 }
 export default Navbar
 =======
+=======
+>>>>>>> a1ac116 (All last)
 import React, { useContext, useState } from 'react';
 import './Navbar.css';
 import { assets } from '../../assets/assets';
@@ -70,4 +73,7 @@ const Navbar = ({ setShowLogin }) => {
 };
 
 export default Navbar;
+<<<<<<< HEAD
 >>>>>>> a09ea5f (Frontend added)
+=======
+>>>>>>> a1ac116 (All last)
